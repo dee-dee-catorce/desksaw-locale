@@ -1,3 +1,6 @@
+# This is directly taken from the locales folder in the [main apps page](https://github.com/dee-dee-catorce/desksaw)) and may not be accurate as of right now. Please wait
+
+
 # Game UI Localization
 
 This readme describes how to add and maintain game UI localization (this means only messages and various UI components visible in the game; dialogs are handled differently).
